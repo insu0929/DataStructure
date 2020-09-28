@@ -1,7 +1,7 @@
 # 자료구조 & 알고리즘 in Python
 # Datastructure and Algorithm implemented in Python.
 
-Repository for Source Codes
+'''Repository for Source Codes'''
 
 1. Array
 2. Linked List
